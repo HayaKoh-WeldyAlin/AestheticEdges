@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aestheticedges:block/air" },
+    "facing=south": { "model": "aestheticedges:block/air", "y": 180 },
+    "facing=west": { "model": "aestheticedges:block/air", "y": 270 },
+    "facing=east": { "model": "aestheticedges:block/air", "y": 90 }
+  }
+}
