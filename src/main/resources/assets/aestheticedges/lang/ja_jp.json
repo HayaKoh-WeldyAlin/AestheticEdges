@@ -141,7 +141,7 @@
   "block.aestheticedges.baseboard_outer_mangrove": "外側のマングローブの幅木",
   "block.aestheticedges.baseboard_outer_maple_nss": "外側のカエデの幅木",
   "block.aestheticedges.baseboard_outer_mountain_hemlock": "外側のヤマツガの幅木",
-  "block.aestheticedges.baseboard_outer_oak": "外側のオークの幅木"
+  "block.aestheticedges.baseboard_outer_oak": "外側のオークの幅木",
   "block.aestheticedges.baseboard_outer_olive": "外側のオリーブの幅木",
   "block.aestheticedges.baseboard_outer_olive_nss": "外側のオリーブの幅木",
   "block.aestheticedges.baseboard_outer_palo_verde_nss": "外側のパロベルデの幅木",
@@ -472,5 +472,5 @@
   "item.aestheticedges.curtain_purple": "紫色のカーテン",
   "item.aestheticedges.curtain_red": "赤色のカーテン",
   "item.aestheticedges.curtain_remover": "カーテンリムーバー",
-  "itemgroup.aedgstab": "Aesthetic Edges",
+  "itemgroup.aedgstab": "Aesthetic Edges"
 }
